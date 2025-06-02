@@ -2,9 +2,10 @@
   "name": "youstream",
   "version": "1.0.0",
   "description": "this is a video streaming platform for india",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -25,5 +26,8 @@
     "project"
   ],
   "author": "Aviral Pandey",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
