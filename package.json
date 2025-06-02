@@ -1,0 +1,29 @@
+{
+  "name": "youstream",
+  "version": "1.0.0",
+  "description": "this is a video streaming platform for india",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "expressjs",
+    "mongodb",
+    "mongoose",
+    "and",
+    "all",
+    "other",
+    "tool",
+    "and",
+    "technology",
+    "used",
+    "in",
+    "this",
+    "project"
+  ],
+  "author": "Aviral Pandey",
+  "license": "ISC"
+}
